@@ -1,0 +1,17 @@
+{
+  "name": "ar-viewer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-three/drei": "^9.120.4",
+    "@react-three/xr": "^6.4.12",
+    "three": "^0.171.0"
+  }
+}
